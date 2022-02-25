@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre de Mr. De Veil, Docteur en theologie &amp; ministre du Saint Evangile, à Monsiueur Boisle de la Societe royall des sciences à Londres pour prouver contre l'autheur d'un livre nouveau intitulé Crituque du Vieux Testament que la seule ecriture est la regle de la foy.</title>
+            <author>Veil, Charles-Marie de, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64789</idno>
+            <idno type="STC">Wing V177</idno>
+            <idno type="STC">ESTC R26345</idno>
+            <idno type="EEBO-CITATION">09436163</idno>
+            <idno type="OCLC">ocm 09436163</idno>
+            <idno type="VID">43092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lettre de Mr. De Veil, Docteur en theologie &amp; ministre du Saint Evangile, à Monsiueur Boisle de la Societe royall des sciences à Londres pour prouver contre l'autheur d'un livre nouveau intitulé Crituque du Vieux Testament que la seule ecriture est la regle de la foy.</title>
+                  <author>Veil, Charles-Marie de, 1630-1685.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprimé par M. Clark,</publisher>
+                  <pubPlace>Londres :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Simon, Richard, 1638-1712. --  Histoire critique du Vieux Testament.</term>
+               <term>Bible. --  O.T. --  Criticism, interpretation, etc.</term>
+               <term>Bible. --  O.T. --  Evidence, authority, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43092:1" rendition="simple:additions"/>
+            <pb facs="tcp:43092:1" rendition="simple:additions"/>
+            <p>LETTRE DE M<hi rend="sup">r.</hi> 
+               <hi>De Veil,</hi> Docteur en Theolog<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> &amp; Miniſtre du Saint Evangile, A Monſieur <hi>BOISLE,</hi> De la SOCIETE ROYALLE des Scien<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> à <hi>LONDRES.</hi> Pour prouver contre l'Autheur d'un Livre nouv<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> INTITULE', <hi>Critique du Vieux Teſtament,</hi> QUE La ſeule Ecriture eſt la Regle de la <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>A <hi>LONDRES,</hi> Imprimé par <hi>M. Clark,</hi> 1678.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:43092:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <hi>Guil. Jane</hi> R. P. D. <hi>Hen. Epiſc. Lond. à Sacris Domeſt.</hi>
+               </signed>
+               <dateline>
+                  <date>Maij 16. 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:43092:2"/>
+            <opener>
+               <salute>Monſieur,</salute>
+            </opener>
+            <p>J'Ay entre les mains depuis peu un livre plein d'erudition, qui eſt intitulé <hi>Critique du vieux Teſtament,</hi> du quel on croit Autheur le Pere Simon Prêtre de l'Oratoire de Paris. Il pretend prouver en cet ouvrage, Qu'on ne peut preſque rien aſſurer de certain dans la Religion, ſi l'on ne joint la tradition avec l'Ecri<g ref="char:EOLhyphen"/>ture pour decider les queſtions de la foy. <hi>Il y a ſans doute de l'ignorance,</hi> dit cet Autheur en ſa Preface, <hi>ou de la preoccupation dans l'eſprit des Proteſtants qui pre<g ref="char:EOLhyphen"/>tendent que l'Ecriture eſt claire d'elle meme.</hi> Cependant, Monſieur, il n'y a rien de plus conſtant en tout ce que l'on peut appeller tradition que ce principe des Pro<g ref="char:EOLhyphen"/>teſtants. St. <hi>Chryſoſtome</hi> dans ſon homelie troiſiême du Lazare remarque apres <hi>Origene</hi> cette difference entre les Philoſophes &amp; les Autheurs de l'Ecriture, que les Philoſophes ſont obſcurs, au lieu que les Apôtres &amp; les Prophetes étant les maitres communs de l'univers ont écrit d'une maniere ſi claire, que chacun ſe peut inſtruire de leur doctrine par la ſeule lecture. Et dans la même homelie ce Docteur ſoutient que l'ignorance des Ecritures ſacrées eſt la ſource de la morale corrompüe auſſi bien que de toutes les Hereſies. St. <hi>Auguſtin</hi> dans le ſecond livre de la Doctrine Chretienne, Chap. 9. dit, <hi>In üs quae apertè in Scripturâ poſita ſunt inveniuntur illa omnia,
+<pb n="2" facs="tcp:43092:3"/>quae continent fidem moréſque vivendi.</hi> C'eſt ce que le ſcavant <hi>Gerſon</hi> Chancelier de l'Univerſitè de <hi>Paris</hi> exprime en ces termes, <hi>ſenſus litteralis Scripturae ſatis expreſſus eſt in iis quae ſunt neceſſaria ad ſalutem.</hi> C'eſt pourquoy l'Egliſe Anglicane fit ce Canon avec beaucoup de raiſon dans les Synodes de Londres en 1552. &amp; 1562, <hi>Scriptura Sacra continet omnia quae ſunt ad ſalutem neceſſaria; Ita ut quidquid in eâ nec legitur, neque inde probari poteſt, licèt interdum à fidelibus ut pium &amp; conducibile ad ordinem &amp; decorem admittatur, non ſit tamen à quoquam exigendum, ut tamquam articulus fidei credatur, aut ad ſalutis neceſſita<g ref="char:EOLhyphen"/>tem requiri putetur.</hi> Le Pere <hi>Simon</hi> rapporte de mau<g ref="char:EOLhyphen"/>vaiſe foy la penſée de St. <hi>Auguſtin</hi> dans le Chap. 7. du 3. livre de ſa Critique. Ce St. Docteur <hi>ſuppoſe,</hi> dit il, <hi>que l'Ecriture eſt obſcure &amp; difficile à entendre. Il ajoûte cependant, que pour l'ordinairé, ce qui eſt ob<g ref="char:EOLhyphen"/>ſcur en un endroit ſe trouve plus nettement expliqué en un autre, &amp; que ce qui regardé la creance &amp; les moeurs eſt exprimé beaucoup plus clairement dans la Bible, que tout le reſte.</hi> A lire la penſée de St. <hi>Auguſtin</hi> dans le livre du Pere <hi>Simon,</hi> il ſemble que ce St. Docteur aſſure ſeule<g ref="char:EOLhyphen"/>ment que pour l'ordinaire l'Ecriture eſt claire en ce qui regarde la creance &amp; les moeurs, &amp; même plus claire qu'en tout le reſte; mais S. <hi>Auguſtin</hi> dit plus dans les paroles citées: Car il dit qu'abſolument tout ce que nous devons croire &amp; faire, ſe trouve clairement dans l'ecriture, &amp; partant ſelon le Pere <hi>Simon, il y a ſans doute ou de l'ignorance ou de la preoccupation dans l'eſprit</hi> de St. <hi>Auguſtin,</hi> auſſi bien que dans l'eſprit de St. <hi>Chryſoſtome,</hi> de <hi>Gerſon,</hi> &amp; generalement dans tous les Eſprits de l'antiquité qui ont été perſuadez avec
+<note n="*" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 1. <hi>Jerem.</hi>
+               </note> Origene, qu'aucun ſentiment n'eſt digne de foy s'il n'eſt prouvé par l'Ecriture; &amp; aucune in<g ref="char:EOLhyphen"/>terpretation
+<pb n="3" facs="tcp:43092:3"/>de la même Ecriture ne doit etre admiſé, à moins qu'elle ne ſoit confirmée &amp; appuyée ſur des paſſages du Vieux &amp; du Nouveau Teſtament; c'eſt pour cette raiſon que dans le decret de Gratien diſtinct. 27 au Chap. qui commence par ce mot <hi>Rela<g ref="char:EOLhyphen"/>tum,</hi> il eſt expreſſément ordonné de decider toutes les controverſes par l'Ecriture, &amp; d'expliquer les paſſages obſcurs qui s'y rencontrent par les mêmes Ecritures, <hi>ex ipſis Scripturis.</hi> Mais c'eſt aſſez vous en<g ref="char:EOLhyphen"/>tretenir, Monſieur, du ſentiment du Pere <hi>Simon</hi> touchant l'inſuffiſance de l'Ecriture pour s'inſtruire de la Religion: je paſſe aux trois preuves dont il ſe ſert pour établir ſon opinion.</p>
+            <p>La premiere eſt priſe des grands changements qui ſont ſurvenus tant au texte originaire, qu'aux ver<g ref="char:EOLhyphen"/>ſions de l'Ecriture. Cette preuve peut avoir quelque force ſur un athée, ou ſur un payen; mais non pas ſur un Chretien, qui ſçait, que non obſtant les Change<g ref="char:EOLhyphen"/>ments arrivez à l'Ecriture, Ieſus Chriſt, les Apotres, &amp; les Peres de l'Egliſe ont toujours prouvé la verité de leur Doctrine par l'Ecriture. Pour ce qui regarde les Peres, je le feray voir amplement dans ma ré<g ref="char:EOLhyphen"/>ponſe à la 3. preuve du Pere <hi>Simon,</hi> quoyque ce que j'en ay déja rapporté puiſſe ſuffire. A l'egard de Ieſus Chriſt, &amp; ſes Apotres le Pere <hi>Simon</hi> dit, <hi>qu'ils ont accommodé les témoignages qu'ils citoient du vieux Te<g ref="char:EOLhyphen"/>ſtament aux explications receués &amp; authoriſees par la tradition.</hi> Mais c'eſt un faux prejugé de ce Pere, du quel on peut dire avec raiſon ces paroles de St. <hi>Je<g ref="char:EOLhyphen"/>rome, Hoc de Scripturis authoritatem non habet, ideo eâ facilitate contemnitur quâ probatur.</hi> Ieſus reprend les traditions, &amp; le Pere <hi>Simon</hi> nous veut faire croire qu'il établit ſa doctrine par la tradition, &amp; qu'il ne ſe ſert de la parole de Dieu que ſelon les prejugez de
+<pb n="4" facs="tcp:43092:4"/>la tradition. C'étoit une tradition parmi les Juifs fondée ſur un paſſage du Prophete <hi>Malachie</hi> mal en<g ref="char:EOLhyphen"/>tendu qu'Elie devoit preceder par ſa predication l'arrivée du Meſſie, &amp; l'Evangile nous apprend que la tradition expliquoit mal le Prophete <hi>Malachie,</hi> qui ne pretendoit pas parler de la perſonne du Prophete <hi>Elie,</hi> mais de <hi>Jean Baptiſte</hi> qui devoit preceder Ieſus Chriſt, <hi>in ſpiritu &amp; virtute Eliae.</hi> Il eſt evident par le chap. 5. de St. <hi>Matth.</hi> que les Juifs expliquant l'Ecri<g ref="char:EOLhyphen"/>ture par le prejugé de la tradition avoient une mo<g ref="char:EOLhyphen"/>rale tres defectueuſe; Mais Ieſus Chriſt, qui n'étoit pas venu pour détruire la Loy &amp; les Prophetes, mais pour les accomplir, rejette les fauſſes expoſitions don<g ref="char:EOLhyphen"/>nées à la loy par les Juifs ſuivant leurs traditions, &amp; en decouvre le veritable ſens conformément à d'au<g ref="char:EOLhyphen"/>tres paſſages du vieux Teſtament, qui contiennent en termes clairs les mêmes choſes que Ieſus Chriſt ordonne de faire à ſes diſciples pour ſurpaſſer la Ju<g ref="char:EOLhyphen"/>ſtice des Scribes &amp; des Phariſeens, à fin de pouvoir entrer dans le Royaume des cieux. Le prejugé de la tradition faiſoit que les Diſciples de Ieſus Chriſt douterent encore apres ſa Reſurrection, ſi c'étoit luy qui rachetteroit <hi>Iſrael,</hi> &amp; Ieſus Chriſt, pour les re<g ref="char:EOLhyphen"/>tirer de ce doute pernicieux, les appelle Inſenſez dont le coeur eſt peſant &amp; tardif à croire tout ce que les Prophetes ont dit. Et pour les dégager entierement de cette fauſſe tradition, qui couroit parmi le peuple, comme le remarque <hi>Theophylacie</hi> dans ſon com<g ref="char:EOLhyphen"/>mentaire ſur le Chap. 24. de St. Luc, commençant par Moyſe &amp; continuant par tous les Prophetes, il leur explique tout ce qui avoit étè dit de luy dans toutes les Ecritures, ainſi que le rapporte St. <hi>Luc</hi> dans le dernier chap. de ſon Evangile. Jamais Chriſt ne renvoye aux traditions pour s'inſtruire, des veritez
+<pb n="5" facs="tcp:43092:4"/>neceſſaires à ſalut, mais toujours à l'Ecriture. <hi>Si vous croyïez Moyſe,</hi> dit il aux Juifs dans St. <hi>Jean</hi> Chap. 6. <hi>Vous me croiriéz auſſy, par ce que c'eſt de moy qu'il a écrit, Que ſi vous ne Croyez pas ce qu'il a êcrit, comment croyriez vous ce que je vous dis?</hi> St. <hi>Paul</hi> dit expreſſement dans ſa 2. à Timoth. Ch. 3. que les <hi>Sainctes Lettres peuvent nous inſtruire pour le ſalut par la foy qui eſt en Ieſus Chriſt.</hi> Et pour expliquer cette verité plus amplement, il ajoute, <hi>Toute Ecriture qui eſt inſpirée de Dieu eſt utile pour inſtruire, pour reprendre, pour corriger, &amp; pour conduire à la Pietè, &amp; à la Juſtice; afin que l'homme de Dieu ſoit parfait, &amp; parfaitement diſpoſe à toute ſorte de bonnes oeuvres.</hi> C'eſt ce que les PP. du Concile de <hi>Francfort</hi> expriment en ces termes dans le capitulaire de <hi>Charles-Magne,</hi> Liv. 2. Chap. 30. <hi>Eſt planè divina Scriptura verax, eſt fixa, eſt caſta, eſt coeleſtis Magiſterii inſtrumentum, &amp; aeterna praedicatio puriſſimo nitens eloquio, eſt lux mortalium, dicente Propheta, Lucerna pedibus meis verbum tuum Domine, &amp; lumen ſemitis meis. Eſt vivax &amp; mori ne<g ref="char:EOLhyphen"/>ſciens, dicente Apoſtolo, Vivus eſt Sermo Dei &amp; efficax, &amp; penetrabilior omni gladio ancipiti, &amp; pertingens uſque ad diviſionem animae ac ſpiritus. Eſt tenebrarum diſ<g ref="char:EOLhyphen"/>cuſſio, Salomone atteſtante qui ait; Lucerna eſt man<g ref="char:EOLhyphen"/>datum Legis &amp; lux vitae, &amp; increpatio, &amp; diſciplina: De quo per Eſaiam dicitur, De nocte ſpiritus meus vigi<g ref="char:EOLhyphen"/>lat ad te Deus, quia lux praecepta tua ſunt ſuper terram.</hi> Et comme la ſainte Ecriture poſſede ces avantages, non pas a raiſon des mots, mais à cauſe des veritez qu'elle contient, Ieſus Chriſt, &amp; ſes Apotres ont eü raiſon de s'attacher dans leurs citations plus au veri<g ref="char:EOLhyphen"/>table ſans qu'aux ſimples paroles des Sainctes Lettres. De plus pour nous apprendre que tout ce qui s'eſt paſſé ſous la loy de nature &amp; de Moyſes êtoit la figure
+<pb n="6" facs="tcp:43092:5"/>&amp; l'ombre de ce qui ſe devoit paſſer ſous l'Evangile, Ieſus Chriſt, &amp; ſes Apotres nous donnent fort ſouvent le ſens allegorique des paſſages qu'ils citent du vieux Teſtament.</p>
+            <p>La 2. raiſon du Pere <hi>Simon,</hi> qu'il appelle, <hi>une Preuve bien evidente,</hi> pour demontrer que l'Ecriture ne ſuffit pas pour decider les controverſes en matiere de Religion, ſe prend de ce que les Sociniens ſont d'accord avec les Proteſtants que le ſeul &amp; veritable principe de la Religion eſt l'Ecriture Saincte, &amp; que cependant ils en tirent des concluſions bien diffe<g ref="char:EOLhyphen"/>rentes. Si le Pere <hi>Simon</hi> diſoit, Les Sociniens &amp; les Proteſtants different dans les concluſions qu'ils ti<g ref="char:EOLhyphen"/>rent des Ecritures, donc les uns ou les autres ſont dans l'erreur, parce qu'ils ne comprennent pas les Ecritures, le raiſonnement ſeroit juſte; mais je ne vois pas par quelle Logique il tire de là que l'Ecri<g ref="char:EOLhyphen"/>ture ne ſuffit pas pour decider les controverſes; puis qu'il <hi>eſt manifeſte que les Sociniens ſe conduiſent par prejugez dans l'explication de l'Ecriture,</hi> comme parle le P. <hi>Simon</hi> dans ſa <hi>Critique du vieux Teſtament,</hi> Liv. 3. Chap. 16. &amp; partant ſi les Sociniens tirent des con<g ref="char:EOLhyphen"/>cluſions tout oppoſées aux Proteſtants de la même Ecriture, ce n'eſt pas l'obſcurité de l'Ecriture qui en eſt cauſe, mais ce ſont les prejugez des Sociniens, qui font qu'ils abuſent de l'Ecriture, pour favoriſer le ſyſteme de Religion qu'ils ont inventé indepen<g ref="char:EOLhyphen"/>dement de l'Ecriture. Le Diable abuſe de l'Ecriture pour tenter Ieſus Chriſt, &amp; Ieſus Chriſt luy reſiſte en uſant bien de l'Ecriture, <hi>falſas de Scripturis Dia<g ref="char:EOLhyphen"/>boli ſagittas veris Scripturarum frangit clypeis,</hi> dit St. <hi>Jerome,</hi> &amp; c'eſt ce que les Proteſtants font tous les jours dans leurs controverſes avec les Sociniens,
+<pb n="7" facs="tcp:43092:5"/>&amp; c'eſt ce que l'on doit faire generalement en toute controverſe des matieres de Religion; &amp; ſi l'on cite dans ces diſputes les Peres des premiers ſiecles, ce ne doit eſtre que pour montrer à l'oëil que les gens qui étudioient l'Ecriture pour y apprendre ce que Dieu veut que nous croyions &amp; faſſions pour étre ſauvé, en tiroient les mêmes dogmes que nous autres Orthodoxes, lors qu'ils n'avoient point de voile devant les yeux, qui les empéchaſt de voire le jour &amp; la lumiere de la parole de Dieu, dans ſes Ecritures, c'eſt à dire, lors qu'ils n'avoient point de ſyſteme de Religion independant de l'Ecriture. Les Phari<g ref="char:EOLhyphen"/>ſeéns concluoient fauſſement de ceque l'Ecriture dit <hi>qu'un homme peut quitter ſa femme en luy donnant un écrit, par lequel il declare qu'il la repudie,</hi> qu'il étoit permis à un homme de quitter ſa femme pour quel<g ref="char:EOLhyphen"/>que cauſe que ce ſoit; mais Ieſus Chriſt, les con<g ref="char:EOLhyphen"/>vainc d'erreur, non pas par la tradition, mais par l'Ecriture, comme nous liſons dans le chap. 9. de St. <hi>Matth.</hi> Les Saduceéns qui rejettoient toutes les traditions pretendoient conclure de l'Ecriture qu'il n'y auroit point de Reſurrection des morts, &amp; Ieſus Chriſt, ne leur dit pas qu'ils ſont tombez dans cette erreur, parce qu'ils ne joignoient pas la tradition à l'Ecriture, parce qu'ils rejettoient toute tradition, mais il les refute par une concluſion tirée de l'Ecri<g ref="char:EOLhyphen"/>ture, &amp; leur dit, <hi>Vous étes dans l'erreur, parce que vous ne comprenez pas les Ecritures, Erratis neſcientes Scripturas.</hi> En effet St. <hi>Auguſtin</hi> remarque fort judici<g ref="char:EOLhyphen"/>euſement que les heretiques ne ſont tels, que parce<g ref="char:EOLhyphen"/>qu'ils s'opiniatrent à donner un faux ſens à l'Ecri<g ref="char:EOLhyphen"/>ture qu'ils ne comprennent pas,
+<note place="margin">
+                  <hi>Lib.</hi> 7. <hi>de<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> gen. ad lit<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Cap.</hi> 9.</note> 
+               <hi>Omnes Haeretici Scripturas Catholicas legunt, nec ob aliud ſunt Haeretici, niſi quod eas non recte intelligentes, ſuas falſas opiniones
+<pb n="8" facs="tcp:43092:6"/>contra earum veritatem pervicaciter aſſerunt.</hi> Le même St. Docteur dans ſon traitté 18. ſur l'Evangile de St. <hi>Jean,</hi> dit, <hi>Non natae ſunt haereſes &amp; quaedam dogmata perverſitatis illaqueantia animos, &amp; in profundum praecipitantia, niſi cùm Scripturae bonae intelliguntur non bene, &amp; quod in eis non bene intelligitur, etiam temerè &amp; audacter aſſeritur. Chromatius,</hi> que St. <hi>Jerome</hi> appelle le plus St. &amp; le plus ſcavant Eveque de ſon tems nous dit ſur le verſ. 15. du 5. Chap. de St. <hi>Mat.</hi> que l'Ecriture eſt claire, mais que les Juifs &amp; les he<g ref="char:EOLhyphen"/>retiques taſchent de nous en cacher la clarté par leurs perverſes interpretations, <hi>perſpicuam lucem prae<g ref="char:EOLhyphen"/>dicationis divinae pravis interpretationibus obtegere &amp; occultare nituntur, pro fide perfidiam praedicando, &amp; lumen veritatis erroris tenebris obvelando.</hi> De tout cecy on doit conclure que quand on diſpute contre les Sociniens ou autres heretiques, pour les convertir, il faut ſuivre la methode de Ieſus Chriſt, &amp; les con<g ref="char:EOLhyphen"/>vaincre d'erreur par l'Ecriture même. Tout cequi ne ſe lit pas formellement dans l'Ecriture, ou ne s'en tire pas par une concluſion evidente, eſt ſujet à l'erreur &amp; par conſequent ne peut étre la regle de notre creance. Les Diſciples mêmes de Ieſus Chriſt ſe trompoient dans le bruit qu'ils faiſoient courir entre eux, que St. <hi>Jean</hi> ne mourroit pas, parceque ce bruit n'étoit fondé que ſur une concluſion mal tirée de ce que Ieſus Chriſt, avoit dit à St. <hi>Pierre</hi> par<g ref="char:EOLhyphen"/>lant de St. <hi>Jean, Si je veux qu'il demeure juſqu' à ce que je vienne, que t'importe?</hi> Il ſemble meme que l'Ecriture aye pris plaiſir à nous marquer cela, pour nous apprendre que tout ce qui n'eſt pas bien ap<g ref="char:EOLhyphen"/>puyé ſur ſon authorité en matiere de Religion, n'eſt pas digne de foy, <hi>Sine authoritate Scripturarum garrulitas non habet fidem,</hi> dit St. <hi>Jerome.</hi> Tous les
+<pb n="9" facs="tcp:43092:6"/>Peres des premiers ſiecles nous apprennent cette verité, dans toutes les diſputes qu'ils ont eües avec les Heretiques de leur tems. Car, comme le remarque le ſcavant Prelat d'Ipre <hi>Janſenius</hi> dans ſon livre intitulé <hi>Auguſtinus,</hi>
+               <note place="margin">
+                  <hi>Tom.</hi> 2: <hi>lib. Proem. c.</hi> 5.</note> ils formoient tellement leurs ſentiments ſur l'Ecriture Saincte qu'ils s'exprimoient preſque dans les mémes termes. <hi>In antiquis patribus,</hi> dit il, <hi>eorúmque diſputationibus duo ſunt conſideranda magno<g ref="char:EOLhyphen"/>perè; primùm, quòd ex principiis verbi Dei ſenſus ſuos, &amp; ferè verba promerent; Secundum, quod religiosè intra terminos oppugnatae ab errore veritatis, ſine ullae ſuper<g ref="char:EOLhyphen"/>fluarum, multò minùs curioſarum, frivolarum, atque inutilium quaeſtionum intermixtione remanerent.</hi> Comme donc l'Ecriture eſt la ſeule voye que nous ayons pour decider les queſtions de religion, Panormitanus à eu raiſon de dire qu'il faut pluſtot croire à un laïque qui s'authoriſe par l'Ecriture, qu'au Pape &amp; à tout un Concile qui n'en eſt pas authoriſé. <hi>Ma<g ref="char:EOLhyphen"/>gis credendum laico ſi Scripturas adferat, quam Papae &amp; toti Concilio ſi abſque Scripturis agant.</hi> St. <hi>Epiphane</hi> qui nous à fait un catalogue de toutes les hereſies qui ont eſtè juſques à ſon tems, &amp; qui remarque l'abus que les autheurs de ces hereſies ont fait de l'Ecriture Saincte pour etablir leurs erreurs, n'attri<g ref="char:EOLhyphen"/>buë pas cela à l'obſcurité de l'Ecriture; Mais à ce que ces heretiques ne ſe ſont pas attachéz à l'Ecriture dans un eſprit de pieté; Car c'eſt un principe conſtant, dit ce Saint, que toutes les veritez ſalu<g ref="char:EOLhyphen"/>taires ſe trouvent clairement dans l'Ecriture par ceux qui les liſent avec jugement &amp; avec un eſprit de pieté,
+<note place="margin">
+                  <hi>Haer.</hi> 76.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. St. <hi>Auguſtin</hi> diſputant contre <hi>Maximin</hi> Eveque Arrien, êtablit pour principe, qu'il faut s'arrêter à la ſeule
+<pb n="10" facs="tcp:43092:7"/>authorité de l'Ecriture <hi>Non ego Nicoenum Concilium tibi,
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ib.</hi> 3. <hi>con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ra Max.</hi>
+                  </note> nec tu mihi Ariminenſe, tamquam praejudicaturus proferas: nec ego hujus authoritate, nec tie illius detine<g ref="char:EOLhyphen"/>ris. Scripturarum authoritatibus, non quorumlibet pro<g ref="char:EOLhyphen"/>priis, ſed utriuſque communibus teſtibus, res cum re, ratio cum ratione decertet.</hi> Il dit au même endroit que le Concile de Nicée ne s'eſt appuyé que ſur l'Ecriture. En effet il ſeroit inutile de placer la Bible au milieu des Conciles, ſi ce n'êtoit pour les avertir, que leurs deciſions ne ſeront pas dignes de foy, à moins qu'elles ne ſoient appuyées ſur l'autorité de l'Ecriture. C'eſt ce qu'a dit admirablement bien St. <hi>Optat</hi> de <hi>Mileve</hi> dans ſon livre 5. Contre <hi>Parmenien, Quaerendi ſunt Judices — in terris de hac re nullum poterit reperiri ju<g ref="char:EOLhyphen"/>dicium, de coelo quaerendus eſt Judex. Sed ut quid pul<g ref="char:EOLhyphen"/>ſamus ad coelum, cum habeamus hîc in Evangelio Te<g ref="char:EOLhyphen"/>ſtamentum? Terrenus pater cùm ſe in confinio ſenſerit mortis, timens ne poſt mortem ſuam ruptâ pace liti<g ref="char:EOLhyphen"/>gent fratres, adhibitis teſtibus voluntatem ſuam de pecto<g ref="char:EOLhyphen"/>re morituro transfert in tabulas diu duraturas. Et ſi fue<g ref="char:EOLhyphen"/>rit inter fratres contentio nata, non itur ad tumulum, ſed quaeritur teſtamentum.</hi>
+               <note place="margin">
+                  <hi>Luc.</hi> 16.</note> En fin de meme que l'Evan<g ref="char:EOLhyphen"/>gile nous aſſure que ceux qui a yant Moyſe &amp; les Pro<g ref="char:EOLhyphen"/>phetes ne vivent pas conformement à leur doctrine, ne ſe convertiroient pas par les exhortations des morts qui reviendroient, ainſi ceux qui ne ſont pas inſtruits &amp; perſuadez des veritez ſalutaires par l'Ecriture ſaincte, la tradition ne les perſuadera Jamais. Le Pere <hi>Simon</hi> ne peut pas revoquer cela en doute, puis qu'il dit lui même dans le chap. 10. du 1. livre de ſa Critique, <hi>qu'il arrive ſouvent que les hommes étant les depoſitaires des traditions, y melent ce qu'ils ont inventé, &amp; il eſt alors difficile de diſtinguer les veritables tradi<g ref="char:EOLhyphen"/>tions d'avec les fauſſes.</hi>
+            </p>
+            <pb n="11" facs="tcp:43092:7"/>
+            <p>La 3. Preuve que je erouve dans la Critique du Pere <hi>Simon</hi> pour montrer l'inſuffiſance de l'Ecriture pour decider les controverſes de Religion, <hi>eſt, qu'il y à eu de tout tems dans l'Egliſe comme un abregé de la Religion independament de l'Ecriture.</hi> Il prétend même que c'eſt par rapport à cet abregé, que les Peres ont expliquè l'Ecriture, &amp; que les Conciles ont decidé les controverſes de leur tems. Je ne doute point que dans tous les ſiecles on n'ait fait des Catechiſmes pour l'inſtruction des enfans &amp; des moins habiles; ou des abregez de la Religion; mais je nie qu'on ait fait ces abregéz indépendament de l'Ecriture, &amp; je ſoutiens contre le Pere <hi>Simon</hi> que les Eueques qui gouvernoient l'Egliſe auoient ſoin de ramaſſer en un abregè les ſen<g ref="char:EOLhyphen"/>tences les plus claires de l'Ecriture, &amp; les plus neceſſai<g ref="char:EOLhyphen"/>res pour inſtruire les fideles des veritéz ſalutaires, &amp; les Peres &amp; les Conciles ont eu raiſon en ſuite de decider les controverſes par rapport à ces abregez, puis qu'âgir de la ſorte, c'eſt expliquer les paſſages obſcurs par ceux qui ſont claires, comme le bon ſens le veut. Tous les paſſages qui j'ay déia citez prouvent manife<g ref="char:EOLhyphen"/>ſtement ce que j'avance, &amp; même, ſi l'on en croit les autheurs qui ont traitté des Offices Ecleſiaſti<g ref="char:EOLhyphen"/>ques, les leçons de l'Ecriture que l'Egliſe Romaine lit encore aujourd'huy les veilles de Pâques &amp; de la Pentecôte, ne ſont autre choſe que les inſtructions &amp; le Catechiſme que l'on faiſoit aux Catechumenes que l'on baptiſoit ces jours la. Le plus ancion abregé de Religion, qui nous reſte de l'antiquité eſt le Symbole que l'on dit avoir été compoſe par les Apotres; Mais cet abregé n'eſt pas independant de l'Ecriture, car comme dit St. <hi>Aug.</hi> liv. 1. Du Symbole aux Catechumenes, Chap. 1. <hi>Iſta verba, quae audiſtis, per divinas Scripturas ſparſa ſunt, ſed
+<pb n="12" facs="tcp:43092:8"/>inde collecta, &amp; ad unum redacta ne tardorum hominum memoria laboraret, ut omnis homo poſſit dicere, poſſit te<g ref="char:EOLhyphen"/>nere quod credit.</hi> Et <hi>Rabanus Maurus</hi> parlant du meme Symbole dans le Chap. 56. de ſon ſecond livre de l'inſtitution des Clercs dit, <hi>In quo quidem paucae ſunt verba, ſed omnia continentur Sacramenta, de totis enim Scripturis haec breviatim collecta ſunt ab Apoſtolis, ut, quoniam plures credentium litteras ne<g ref="char:EOLhyphen"/>ſciunt, vel qui ſciunt, praeoccupatione ſeculi legere non poſſunt, haec corde retinentes, habeant ſufficientem ſibi ſcientiam ſalutarem.</hi> L'egliſe Anglicane parlant de cet abregé, auſſi bien que de ceux que l'on appelle Symboles de Nicée &amp; de St. <hi>Athanaſe</hi> dit dans les Synodes de <hi>Londre</hi> en 1552. 1562. <hi>Symbola tria, Nicenum, Athanaſii, &amp; quod vulgò Apoſtolorum appella<g ref="char:EOLhyphen"/>tur, omninò recipienda ſunt &amp; credenda; nam firmiſſi<g ref="char:EOLhyphen"/>mis Scripturarum teſtimoniis probari poſſunt.</hi> St. <hi>Cyprien</hi> n'a aſſurément Jamais reconnu d'abregé de la Re<g ref="char:EOLhyphen"/>ligion indépendament de l'Ecriture, puis que dans ſon eſpitre à <hi>Pompeïus</hi> il demande qu'on luy faſſe voir dans l'Ecriture qu'on ne doive pas rebaptiſer les heretiques pour le perſuader que ce ſoit une tra<g ref="char:EOLhyphen"/>dition Apoſtolique. <hi>Si aut in Evangelio praecipitur, aut in Apoſtolorum Epiſtolis, aut Actiibus continetur, ut à qua<g ref="char:EOLhyphen"/>cumque haereſi venientes non baptizentur, ſed tantùm manus illis imponantur in poenitentiam: obſervetur di<g ref="char:EOLhyphen"/>vina haec &amp; ſancta traditio:</hi> Cet abregé etoit inconnu à <hi>Tertullien</hi> qui dit en diſputant contre <hi>Hermogene</hi> Chap. 22. <hi>Adoro Scripturae plenitudinem — Scriptum eſſe doceat Hermogenis officina. Si non eſt Scriptum, ti<g ref="char:EOLhyphen"/>meat illud, Vae adjicientibus aut detrabentibus deſtinatum.</hi> Le même dans ſon livre de la Chair de Chriſt, Chap. 7. diſputant contre Apelles, il n'a point recours aux pretendus abregéz du Pere <hi>Simon,</hi> mais
+<pb n="13" facs="tcp:43092:8" rendition="simple:additions"/>il dit à cet hereſiarque, <hi>Non recipio quod extra Scrip<g ref="char:EOLhyphen"/>turam de tuo infers.</hi> Cet abregé etoit inconnu à St. <hi>Auguſtin</hi> qui dans ſon livre de l'unité de l'egliſe, l. 12 contre l'epitre de Petilien, Chap. 11. dit, <hi>Quiſquis aliud Evangelizaverit, anathema ſit,</hi> &amp; Chap. 12. <hi>Aut legat mihi hoc in Scripturis, &amp; non ſit anathema,</hi> &amp; dans le meme Chapitre, <hi>Si autem non ea de Scripturis ſanctis legunt, ſed ſuis contentionibus perſuadere conantur, credo illa quae in Scripturis ſanctis leguntur, non credo iſta quae ab haereticis vanis dicuntur.</hi> Le meme St. Docteur dans le 2. livre de Nupt. &amp; Concup. Chap. 33. dit, <hi>Iſta controverſia judicem quaerit, judicet ergo Chriſtus, &amp; cui rei mors ejus pro<g ref="char:EOLhyphen"/>fuerit ipſe dicat — judicet cum illo &amp; Apoſtolus, quia in Apoſtolo ipſe loquitur Chriſtus.</hi> Dans ſon livre de la grace &amp; du lib. arb. Chap. 18. <hi>Sedeat inter nos Judex Apoſtolus Joannes.</hi> Et dans le ſecond Livre contre Creſconius, Chap. 32. <hi>Litteras Cypriani non ut Cano<g ref="char:EOLhyphen"/>nicas habeo, ſed eas ex Canonicis conſidero, &amp; quod in eis divinarum Scripturarum autoritati congruit, cum laude ejus accipio; quod autem non congruit, cum pace ejus reſpuo.</hi> En fin cét abregé a été inconnu aux Conciles, puis qu'on y plaçoit les Ecritures au milieu pour de regle aux deciſions, ce qui n'auroit <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> de rien ſervi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s 'il y avoit eu de tout tems dans l'Egliſe un abregé de la Religion independament de l'Ecri<g ref="char:EOLhyphen"/>ture. Il ne ſert de rien au pere <hi>Simon</hi> pour autho<g ref="char:EOLhyphen"/>riſer ſon pretendu abregé de dire que les Apôtres ont preché l'Evangile auparavant que de l'écrire, &amp; que du tems de S. Irenée, il y avoit encore pluſieurs egliſes qui croyoient à l'Evangile par tradition ſans l'avoir par écrit; Car il eſt certain que quand on dit que l'Ecriture contient clairement tout ce qui eſt ne<g ref="char:EOLhyphen"/>ceſſaire à ſalut, nous n'oppoſons pas les veritéz
+<pb n="14" facs="tcp:43092:9"/>couchées ſur le papier dans l'Ecriture aux memes veritéz prononcées par la langue des predicateurs. Nous ſçavons que les Prophetes &amp; les Apotres de<g ref="char:EOLhyphen"/>voient etre crú lors qu'ils prechoient les veritéz que le Saint Eſprit leur inſpiroit, auſſi bien que lors qu'ils les ont reduïtes par écrit; mais nous diſons ſeulement que les Apotres &amp; les Prophetes ont reduit les memes veritéz, qu'ils prechoient par écrit d'une maniere, que pour regler notre foy, nous n'avons beſoin, que de recourir à leurs écrits: C'eſt ce que dit St. Irenée dans ſon 3. livre contre les hereſies, Chap. 1. <hi>Non enim per alios diſpoſitionem ſalutis noſtrae cognovimus, quam per eos, per quos evangelium perve<g ref="char:EOLhyphen"/>nit ad nos, quod quidem tunc praeconiaverunt; poſteà verò per Dei voluntatem in Scripturis nobis tradiderunt fundamentum &amp; columnam fidei noſtrae futurum.</hi> Si le Pere <hi>Simon</hi> nous demande quelle aſſurance nous pou<g ref="char:EOLhyphen"/>vons avoir, que les veritéz ſalutaires n'aient point été alterées dans l'Ecriture ſainte, nous luy pouvons repondre que la tradition, ou la predication de l'Egliſe dans tous les ſiecles a eté l'inſtrument, dont Dieu s'eſt ſervi pour nos faire connoitre que l'Ecri<g ref="char:EOLhyphen"/>ture eſt la parole de Dieu, &amp; qu'elle n'a jamais eté alterée d'une telle maniere, qu'elle ne contienne toújours tres clairement ce que nous devons croire &amp; ce que nous devons faire pour étre ſauvés.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>des ex <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ditu.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m. 10.</note> Mais que c'eſt Dieu qui nous a perſuadé interieurement de la verité de cette Predication; &amp; cette reponſe eſt tres veritable, puis que la foy eſt un don de Dieu, &amp; tres conforme à ce que dit St. <hi>Auguſtin</hi> parlant à Dieu dans le Chap. 5. du 6. Livre de ſes Confeſſions: <hi>Perſuaſiſti mihi, non qui crederent libris tuis, ſed qui non crederent, eſſe culpandos: Nec audiendos eſſe ſi qui fortè dicerent, unde ſcis illos unius veri &amp; vera<g ref="char:EOLhyphen"/>ciſſimi
+<pb n="15" facs="tcp:43092:9"/>Dei Spiritu eſſe humano generi miniſtratos.</hi> Il ne me reſte plus, Monſieur, pour finir qu' a vous prier de remercier Dieu pour moy de m'avoir donnè par ſa miſericorde ce precieux don de la foy, &amp; de m'avoir perſuadé de renoncer aux traditions heterodoxes, &amp; ſuperſtitieuſes nouveautes de l'Egliſe Romaine, pour embraſſer une communion Orthodoxe, qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> regle ſa foy par la ſeule Ecriture divinement inſpirée, <hi>non taliter fecit omni Nationi,</hi> &amp; de prier ce meme Dieu de me continuer ſes graces, afin de perſeverer dans la pureté de cette foy, &amp; de mener une vie con<g ref="char:EOLhyphen"/>forme à cette croyance. Je ſuis</p>
+            <closer>
+               <dateline>A Fulham, ce <date>14 May, 1678.</date>
+               </dateline>
+               <signed>
+                  <hi>Monſieur, Votre tres humble &amp; tres obeiſſant Serviteur,</hi> DE VEIL, <hi>Prétre de l'Egliſe Anglicane.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
